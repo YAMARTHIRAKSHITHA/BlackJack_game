@@ -1,0 +1,30 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(solitaire.jpg);
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-size: cover;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 80px;
+    padding-top: 200px;
+}
+
+#message-el {
+   font-style: italic;
+}
+button{
+    color: #016f32;
+    width: 300px;
+    background-color: goldenrod;
+    height: 50px;
+    font-size: 30;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 14px;;
+}
